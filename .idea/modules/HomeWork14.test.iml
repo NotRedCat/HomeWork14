@@ -7,6 +7,10 @@
       <sourceFolder url="file://$MODULE_DIR$/../../src/test/java" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../../src/test/resources" type="java-test-resource" />
     </content>
+    <content url="file://$MODULE_DIR$/../../src/test">
+      <sourceFolder url="file://$MODULE_DIR$/../../src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/test/resources" type="java-test-resource" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="HomeWork14.main" />
@@ -105,5 +109,4 @@
     <orderEntry type="library" scope="RUNTIME" name="Gradle: org.junit.platform:junit-platform-launcher:1.9.1" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: io.qameta.allure:allure-test-filter:2.19.0" level="project" />
   </component>
-  <component name="TestModuleProperties" production-module="HomeWork14.main" />
 </module>
